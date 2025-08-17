@@ -1,6 +1,6 @@
 # Amazon-Product-Recommendation-System
 
-Context <\br>
+Context <br>
 Today, information is growing exponentially with volume, velocity, and variety throughout the globe. This has led to information overload and too many choices for the consumer of any business.It represents a real dilemma for these consumers and they often turn to denial. Recommender Systems are one of the best tools that help recommend products to consumers while they are browsing online. Providing personalized recommendations that are most relevant for the user is what’s most likely to keep them engaged and help the business. 
 
 E-commerce websites like Amazon, Walmart, Target, and Etsy use different recommendation models to provide personalized suggestions to different users. These companies spend millions of dollars to come up with algorithmic techniques that can provide personalized recommendations to their users.

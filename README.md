@@ -7,13 +7,13 @@ E-commerce websites like Amazon, Walmart, Target, and Etsy use different recomme
 
 Amazon, for example, is well-known for its accurate selection of recommendations on its online site. Amazon's recommendation system is capable of intelligently analyzing and predicting customers' shopping preferences in order to offer them a list of recommended products. Amazon's recommendation algorithm is therefore a key element in using AI to improve the personalization of its website. For example, one of the baseline recommendation models that Amazon uses is item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time.
 
-Objective
+Objective <br>
 You are a Data Science Manager at Amazon and have been given the task of building a recommendation system to recommend products to customers based on their previous ratings for other products. You have a collection of labeled data of Amazon reviews of products. The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
 
-Data Description
-The Amazon dataset contains the following attributes:
-
-userId: Every user identified with a unique id
-productId: Every product identified with a unique id
-Rating: The rating of the corresponding product by the corresponding user
-timestamp: Time of the rating. We will not use this column to solve the current problem
+Data Description <br>
+The Amazon dataset contains the following attributes: <br>
+<br>
+* userId: Every user identified with a unique id
+* productId: Every product identified with a unique id
+* Rating: The rating of the corresponding product by the corresponding user
+* timestamp: Time of the rating. We will not use this column to solve the current problem

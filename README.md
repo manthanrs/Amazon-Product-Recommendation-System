@@ -12,7 +12,7 @@ You are a Data Science Manager at Amazon and have been given the task of buildin
 
 Data Description <br>
 The Amazon dataset contains the following attributes: <br>
-<br>
+
 * userId: Every user identified with a unique id
 * productId: Every product identified with a unique id
 * Rating: The rating of the corresponding product by the corresponding user
